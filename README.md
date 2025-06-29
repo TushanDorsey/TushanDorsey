@@ -14,7 +14,7 @@ Here you’ll find code, scripts, and labs reflecting my journey toward becoming
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| AD Automation Scripts         | <a href="https://google.com">Detection Lab</a>|
+| Domain controller / DNS configuration         | <a href="https://github.com/TushanDorsey/WinServerA-B">WinServerA-B Lab</a>|
 | Network Monitoring Lab | <a href="https://google.com">Detection Lab</a>|
 | Security Camera Management Tools         | SOC Automation Lab|
 | Linux/Proxmox Homelab      | SOC Automation Lab|
