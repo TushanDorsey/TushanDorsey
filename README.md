@@ -16,10 +16,10 @@ Here you’ll find code, scripts, and labs reflecting my journey toward becoming
 |-----------------------------------------------|----------------------------|
 | Domain controller / DNS configuration         | <a href="https://github.com/TushanDorsey/WinServerA-B">WinServerA-B Lab</a>|
 | DNS & DHCP Traffic Analysis | <a href="https://github.com/TushanDorsey/wireshark-traffic-analysis-project/blob/main/DNS-%26-DHCP-Traffic-Analysis.md">DNS-&-DHCP-Traffic-Analysis</a>|
-| Security Camera Management Tools         | SOC Automation Lab|
-| Linux/Proxmox Homelab      | SOC Automation Lab|
-| TBD                  | SOC Automation Lab|
-| TBD | SOC Automation Lab|
+| TDB         | TDB|
+| TDB      | TDB|
+| TBD                  | TDB|
+| TBD | TDB|
 
 ## Tools
 
