@@ -23,43 +23,53 @@ Here you’ll find code, scripts, and labs reflecting my journey toward becoming
 
 ## Tools
 
-### Network
+### Network & Infrastructure
 <div>
-    <img src="https://img.shields.io/badge/-SolarWinds-FF6C00?&style=for-the-badge&logo=Solarwinds&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Cisco_AnyConnect-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Proxmox-DC143C?&style=for-the-badge&logo=Proxmox&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Oracle_VirtualBox-3D7EFF?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SolarWinds-FF6C00?&style=for-the-badge&logo=Solarwinds&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cisco_AnyConnect-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Proxmox-DC143C?&style=for-the-badge&logo=Proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Oracle_VirtualBox-3D7EFF?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Windows_Server-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/-BitLocker-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
-### Endpoint
+### Endpoint & System Administration
 <div>
-    <img src="https://img.shields.io/badge/-Active_Directory-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Azure_Active_Directory-0078D4?&style=for-the-badge&logo=Microsoft_Azure&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Windows_Server-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft_365_Admin-0078D4?&style=for-the-badge&logo=Microsoft_Office&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft_SharePoint-0078D4?&style=for-the-badge&logo=Microsoft_SharePoint&logoColor=white" />
-    <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft_Office_365-0078D4?&style=for-the-badge&logo=Microsoft_Office&logoColor=white" />
-    <img src="https://img.shields.io/badge/-BitLocker-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Citrix_Workspace-0089D6?&style=for-the-badge&logo=Citrix&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Git-181717?&style=for-the-badge&logo=Git&logoColor=white" />
-    <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Active_Directory-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Azure_Active_Directory-0078D4?&style=for-the-badge&logo=Microsoft_Azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft_365_Admin-0078D4?&style=for-the-badge&logo=Microsoft_Office&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft_SharePoint-0078D4?&style=for-the-badge&logo=Microsoft_SharePoint&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Citrix_Workspace-0089D6?&style=for-the-badge&logo=Citrix&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
 </div>
 
 ### SIEM & Security
 <div>
-    <img src="https://img.shields.io/badge/-Sophos-FF0000?&style=for-the-badge&logo=Sophos&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Axis_Camera_Station-0078D4?&style=for-the-badge&logo=Axis&logoColor=white" />
-    <img src="https://img.shields.io/badge/-ExacqVision-0078D4?&style=for-the-badge&logo=ExacqVision&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tenable_Nessus-005571?&style=for-the-badge&logo=Tenable&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CrowdStrike-FF0000?&style=for-the-badge&logo=CrowdStrike&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ServiceNow-1C7CD6?&style=for-the-badge&logo=ServiceNow&logoColor=white" />
 </div>
 
 ### Cloud
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=Microsoft_Azure&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Azure_Active_Directory-0078D4?&style=for-the-badge&logo=Microsoft_Azure&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft_365_Admin-0078D4?&style=for-the-badge&logo=Microsoft_Office&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=Microsoft_Azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Azure_AD-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Azure_Security_Center-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-O365_Security_&_Compliance-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
+### Collaboration & DevOps
+<div>
+  <img src="https://img.shields.io/badge/-Git-181717?&style=for-the-badge&logo=Git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jira-0052CC?&style=for-the-badge&logo=Jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Confluence-172B4D?&style=for-the-badge&logo=Confluence&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MS_Teams-6264A7?&style=for-the-badge&logo=Microsoft%20Teams&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Slack-4A154B?&style=for-the-badge&logo=Slack&logoColor=white" />
+</div>
 ## Certifications
 <div>
   <a href="https://www.credly.com/badges/a6da1251-84aa-46bf-9266-72d9852d607e/public_url" target="_blank" rel="noopener noreferrer">
