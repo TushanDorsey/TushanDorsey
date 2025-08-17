@@ -16,7 +16,7 @@ Here you’ll find code, scripts, and labs reflecting my journey toward becoming
 |-----------------------------------------------|----------------------------|
 | Domain controller / DNS configuration         | <a href="https://github.com/TushanDorsey/WinServerA-B">WinServerA-B Lab</a>|
 | DNS & DHCP Traffic Analysis | <a href="https://github.com/TushanDorsey/wireshark-traffic-analysis-project/blob/main/DNS-%26-DHCP-Traffic-Analysis.md">DNS-&-DHCP-Traffic-Analysis</a>|
-| TDB         | TDB|
+| IE200 Capstone Project        | <a href="https://github.com/TushanDorsey/Windows-Server-2022-Project/blob/main/README.md)">Capstone Project</a>|
 | TDB      | TDB|
 | TBD                  | TDB|
 | TBD | TDB|
