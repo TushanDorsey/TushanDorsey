@@ -3,21 +3,38 @@
 
 
 
-I’m an IT professional with hands-on experience in system administration, network monitoring, and security operations.
+Aspiring Network Engineer
+
+I'm an IT professional with hands-on experience supporting enterprise infrastructure across 200+ locations. My background includes network troubleshooting, Active Directory administration, Microsoft 365 support, Linux deployments, network monitoring, and infrastructure operations.
+
+Currently, I work in enterprise IT while building my networking expertise through Cisco Packet Tracer labs, Network+ studies, Windows Server projects, Linux administration, and large-scale infrastructure deployments.
 
 ## Objective
 
-Here you’ll find code, scripts, and labs reflecting my journey toward becoming a cloud/cyber security engineer. Feel free to explore, and connect if you’d like to collaborate or chat tech!
+This GitHub documents my journey toward becoming a Network Engineer.
+
+My primary focus areas include:
+
+Network Infrastructure
+Routing & Switching
+TCP/IP Networking
+VLANs & Subnetting
+DNS & DHCP
+VPN Technologies
+Network Monitoring
+Windows Server Administration
+Linux Administration
+Enterprise Network Troubleshooting
+
+Here you'll find networking labs, infrastructure projects, Packet Tracer simulations, Windows Server deployments, Linux projects, cloud networking exercises, and technical documentation that showcase my progression toward Network Engineering and Infrastructure roles.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Domain controller / DNS configuration         | <a href="https://github.com/TushanDorsey/WinServerA-B">WinServerA-B Lab</a>|
 | DNS & DHCP Traffic Analysis | <a href="https://github.com/TushanDorsey/wireshark-traffic-analysis-project/blob/main/DNS-%26-DHCP-Traffic-Analysis.md">DNS-&-DHCP-Traffic-Analysis</a>|
 | IE200 Capstone Project        | <a href="https://github.com/TushanDorsey/Windows-Server-2022-Project/blob/main/README.md)">Capstone Project</a>|
-| TDB      | TDB|
+| Network-Engineering-Labs | TDB|
 | TBD                  | TDB|
 | TBD | TDB|
 
@@ -87,21 +104,6 @@ Here you’ll find code, scripts, and labs reflecting my journey toward becoming
 </div>
 
 ## Projects
-
-- **Azure Blob Storage Container Setup & Security**  
-  Created and secured an Azure Blob Storage container, implementing access controls and encryption to ensure data confidentiality and integrity.
-
-- **Azure Virtual Network and Subnet Configuration**  
-  Designed and deployed an Azure Virtual Network with appropriate subnets and network security groups, enhancing segmentation and security posture.
-
-- **Security+ Boss Fight Preparation**  
-  Completed a comprehensive study and practice routine for CompTIA Security+ certification, including hands-on labs and performance-based questions to simulate exam scenarios.
-
-- **Cloud Security Monitoring with Azure Sentinel**  
-  Configured Azure Sentinel for threat detection and incident response automation, integrating data connectors and custom analytics rules.
-
-- **Terraform Basics for Infrastructure as Code**  
-  Built basic Terraform scripts to provision and manage cloud infrastructure declaratively, improving repeatability and version control.
 
 - **Network+ Practice and Troubleshooting Labs**  
   Completed Network+ practical labs focusing on network troubleshooting, routing, switching, and security fundamentals.
