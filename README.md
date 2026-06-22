@@ -34,7 +34,7 @@ Here you'll find networking labs, infrastructure projects, Packet Tracer simulat
 | Domain controller / DNS configuration         | <a href="https://github.com/TushanDorsey/WinServerA-B">WinServerA-B Lab</a>|
 | DNS & DHCP Traffic Analysis | <a href="https://github.com/TushanDorsey/wireshark-traffic-analysis-project/blob/main/DNS-%26-DHCP-Traffic-Analysis.md">DNS-&-DHCP-Traffic-Analysis</a>|
 | IE200 Capstone Project        | <a href="https://github.com/TushanDorsey/Windows-Server-2022-Project/blob/main/README.md)">Capstone Project</a>|
-| Network-Engineering-Labs | TDB|
+| Network-Engineering-Labs |  <a href="https://github.com/TushanDorsey/Network-Engineering-Labs-CCNA-2026">Labs</a>|
 | TBD                  | TDB|
 | TBD | TDB|
 
